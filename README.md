@@ -1,8 +1,25 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Noticias al instante
 
-Currently, two official plugins are available:
+Mantente informado con las últimas noticias de todo el mundo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades:
+
+Noticias en tiempo real: Accede a noticias de última hora de una variedad de fuentes confiables.
+Búsqueda personalizada: Encuentra noticias relevantes para ti con nuestro filtro de las noticias por temas que te interesen, como política, deportes, economía y más.
+
+##Tecnologia
+-React
+-JavaScript
+-API de noticias
+-Bootstrap
+-css
+
+## Público objetivo:
+
+-Personas que buscan mantenerse informadas sobre las últimas noticias.
+-Personas que quieren acceder a noticias de una manera rápida y fácil.
+-Personas que quieren personalizar su experiencia de lectura de noticias.
+
+
